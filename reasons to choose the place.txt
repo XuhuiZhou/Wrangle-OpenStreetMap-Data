@@ -1,0 +1,3 @@
+https://mapzen.com/data/metro-extracts/ You can type Nanjing in the search box.Then you will see the file and you can download it
+The reason I choose this place is that I live in this place now and I am new to the place,so I would like to know something about the place
+and I think I can do some contribution to openstreet map,especially from a perspective of a Chinese.

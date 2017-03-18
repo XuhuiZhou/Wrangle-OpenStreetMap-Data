@@ -1,0 +1,4 @@
+Thanks to all of the helping posts:
+https://discussions.udacity.com/t/creating-db-file-from-csv-files/174958
+https://discussions.udacity.com/t/use-sqlite3-in-jupyter-nb-not-from-terminal/174939
+https://discussions.udacity.com/t/question-about-character-encoding-chinese-traditional-to-english/173767
